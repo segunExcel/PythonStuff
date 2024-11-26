@@ -1,0 +1,13 @@
+COLUMN Products
+Apples
+Oranges
+Bananas
+COLUMN Prices
+1.2
+0.8
+1.5
+COLUMN Quantities
+10
+15
+20
+END
